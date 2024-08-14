@@ -2,7 +2,7 @@ from flask import Flask
 from functools import partial
 import json
 from flask_sqlalchemy import SQLAlchemy
-from db_config import DATABASE_URL
+from db_model.db_config import DATABASE_URL
 
 # Initialize Flask application
 app = Flask(__name__)
