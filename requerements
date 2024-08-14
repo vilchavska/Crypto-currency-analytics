@@ -1,0 +1,7 @@
+pip psycopg2
+pip3 install requests
+pip install flask_sqlalchemy
+pip install flask sqlalchemy psycopg2
+pip install sqlalchemy
+pip install croniter
+#pip install psycopg2-binary croniter

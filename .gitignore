@@ -1,0 +1,6 @@
+
+#config file
+db_config.ini
+
+venv
+__pycache__
